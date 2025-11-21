@@ -217,8 +217,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For issues and questions:
 - Create an issue on GitHub
-- Email: your-email@example.com
+- Email: khushipanwargzb@gmail.com
 
 ---
 
-**Built with ❤️ for the Local-First movement**
+
+**Built with ❤️ by Khushi Panwar**
